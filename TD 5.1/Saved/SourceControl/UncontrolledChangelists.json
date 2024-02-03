@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Archer.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Ballista.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/HUD/HUD_MainGame.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Cauldron.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Trebuchet.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Blueprints/PC_TowerDefense.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/KPMenu.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/KPOptions.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/KPCredits.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/KPLanguages.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/KPResolution.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/Sub_Maps/CreditsMap.umap",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/Sub_Maps/OptionsLanguageMap.umap",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/Sub_Maps/OptionsMenuMap.umap",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/Sub_Maps/OptionsResolutionMap.umap",
+				"C:/Users/mariu/Documents/Unreal Projects/TD/Content/Menu/pause_menu.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD_THISONE/Content/3D_Models/Tower_Archer.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD_THISONE/Content/3D_Models/Tower_Ballista.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD_THISONE/Content/3D_Models/Tower_Cauldron.uasset",
+				"C:/Users/mariu/Documents/Unreal Projects/TD_THISONE/Content/3D_Models/Tower_Trebuchet.uasset",
+				"C:/Users/mihut/Documents/Unreal Projects/TD/Content/Maps/MenuMap.umap",
+				"C:/Users/mihut/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Archer.uasset",
+				"C:/Users/mihut/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Ballista.uasset",
+				"C:/Users/mihut/Documents/Unreal Projects/TD/Content/3D_Models/Tower_Trebuchet.uasset"
+			]
+		}
+	]
+}
