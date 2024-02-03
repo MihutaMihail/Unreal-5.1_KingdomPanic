@@ -48,4 +48,6 @@ I have also did some work for the "cards" where you can buy the respective tower
 ## About
 • The game has been made using BP (blueprints) due to not having learned C++, and time constraints to do so.
 
-• Due to their size (in reference to the amount of nodes insidea a blueprint), and my inexperience / skills to optimize it, there are not pictures of said blueprints. You will have to pull the project, open it inside UNREAL ENGINE, and see for yourself. <br>
+• The wasn't much time spend on the actual gameplay, so while it does indeed function, the game is pretty hard.
+
+• Due to their size (in reference to the amount of nodes insidea a blueprint), and my lack of experience / hard skills to optimize it, there are not pictures of said blueprints. You will have to pull the project, open it inside UNREAL ENGINE, and see for yourself. <br>
