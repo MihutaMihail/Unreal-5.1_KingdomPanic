@@ -41,13 +41,16 @@ I was part of a team of 4. I led the development team which consists of me and a
 → Tower_Projectiles/ <br>
 → HUD/ <br>
 → Blueprints/ <br>
-→ 3D_Models/Tower_Archer/Ballista/Cauldron/Trebuchet
+→ 3D_Models/Tower_Archer
+→ 3D_Models/Tower_Ballista
+→ 3D_Models/Tower_Cauldron
+→ 3D_Models/Tower_Trebuchet
 
-I have also did some work for the "cards" where you can buy the respective towers meaning the design of them, and the little sliding up / down animation.
+I have also did some work for the "cards" (where you can buy the respective towers) meaning the design of them, and the little sliding up / down animation.
 
 ## About
 • The game has been made using BP (blueprints) due to not having learned C++, and time constraints to do so.
 
-• The wasn't much time spend on the actual gameplay, so while it does indeed function, the game is pretty hard.
+• There wasn't much time spend on game design, so while it does indeed function, the game is pretty hard.
 
-• Due to their size (in reference to the amount of nodes insidea a blueprint), and my lack of experience / hard skills to optimize it, there are not pictures of said blueprints. You will have to pull the project, open it inside UNREAL ENGINE, and see for yourself. <br>
+• Due to their size (in reference to the amount of nodes inside a blueprint), and my lack of experience / hard skills to optimize it, there are not pictures of said blueprints. You will have to pull the project, open it inside UNREAL ENGINE, and see for yourself. <br>
